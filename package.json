@@ -15,5 +15,8 @@
     "disassembler"
   ],
   "author": "zlumer",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.5.2"
+  }
 }
