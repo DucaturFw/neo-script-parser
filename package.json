@@ -1,0 +1,19 @@
+{
+  "name": "neo-script-parser",
+  "version": "0.1.0",
+  "description": "NEO blockchain script parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "keywords": [
+    "neo",
+    "blockchain",
+    "script",
+    "parser",
+    "disassemble",
+    "disassembler"
+  ],
+  "author": "zlumer",
+  "license": "MIT"
+}
