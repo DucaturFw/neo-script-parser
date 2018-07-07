@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": "DucaturFw/neo-script-parser",
   "bin": "js/cli.js",
   "keywords": [
     "neo",
