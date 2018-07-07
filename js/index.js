@@ -5,6 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var OpCode_1 = __importDefault(require("./OpCode"));
 var hints_1 = __importDefault(require("./hints"));
+exports.parse = disassemble;
 function disassemble(script) {
     function readByte() {
         return bytes[i++];

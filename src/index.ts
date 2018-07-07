@@ -2,6 +2,7 @@ import IEntry from "./IEntry"
 import OpCode from "./OpCode"
 import hints from "./hints"
 
+export let parse = disassemble
 export function disassemble(script: string)
 {
 	function readByte()
