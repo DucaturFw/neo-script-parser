@@ -2,6 +2,8 @@
 
 This module parses tx scripts into a set of instructions that can be used for debugging or inspection.
 
+[![Build Status](https://travis-ci.org/DucaturFw/neo-script-parser.svg?branch=master)](https://travis-ci.org/DucaturFw/neo-script-parser)
+
 ## Installation
 
 `yarn add neo-script-parser`
